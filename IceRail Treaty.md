@@ -7,8 +7,8 @@
 2. a channel for exclusive discussion of transport routes (ice, horse, or rail) in which any member territory and agreed upon non member territories may request permission for a rail route under or on territory of a member nation
    * 2.1. if the member states agree on a transport route they may request or require a specific rail standar be followed
 3. a channel for relay of snitches within range public transport lines
-4. all of the above shall then be listed on this document
-5. whatever is agreed upon may later be changed by a consensus
+- all of the above shall then be listed on this document
+- whatever is agreed upon may later be changed by a consensus
 
 
 (b) to that end each member must: 
@@ -22,5 +22,3 @@
 2. open an invitation to other members to have individuals in said group with the snitch notification permission
 
 (d) new members must be approved by consensus after requesting to join or being invited
-
-*first draft*
